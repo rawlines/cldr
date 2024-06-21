@@ -31,3 +31,6 @@ exception.log
 /_site
 derby.log
 .lycheecache
+
+# Python stuff
+.venv

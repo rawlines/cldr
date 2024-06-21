@@ -1,0 +1,2702 @@
+[
+    {
+        "name": "adalv",
+        "description": "Andorra",
+        "alias": "Europe/Andorra",
+        "iana": "Europe/Andorra"
+    },
+    {
+        "name": "aedxb",
+        "description": "Dubai, Emiratos \u00c1rabes Unidos",
+        "alias": "Asia/Dubai",
+        "iana": "Asia/Dubai"
+    },
+    {
+        "name": "afkbl",
+        "description": "Kabul, Afghanistan",
+        "alias": "Asia/Kabul",
+        "iana": "Asia/Kabul"
+    },
+    {
+        "name": "aganu",
+        "description": "Antigua",
+        "alias": "America/Antigua",
+        "iana": "America/Antigua"
+    },
+    {
+        "name": "aiaxa",
+        "description": "Anguilla",
+        "alias": "America/Anguilla",
+        "iana": "America/Anguilla"
+    },
+    {
+        "name": "altia",
+        "description": "Tirana, Albania",
+        "alias": "Europe/Tirane",
+        "iana": "Europe/Tirane"
+    },
+    {
+        "name": "amevn",
+        "description": "Erev\u00e1n, Armenia",
+        "alias": "Asia/Yerevan",
+        "iana": "Asia/Yerevan"
+    },
+    {
+        "name": "ancur",
+        "description": "Curazao",
+        "alias": "America/Curacao",
+        "iana": "America/Curacao"
+    },
+    {
+        "name": "aolad",
+        "description": "Luanda, Angola",
+        "alias": "Africa/Luanda",
+        "iana": "Africa/Luanda"
+    },
+    {
+        "name": "aqcas",
+        "description": "Estaci\u00f3n Casey, Pen\u00ednsula Bailey",
+        "alias": "Antarctica/Casey",
+        "iana": "Antarctica/Casey"
+    },
+    {
+        "name": "aqdav",
+        "description": "Estaci\u00f3n Davis, Vestfold Hills",
+        "alias": "Antarctica/Davis",
+        "iana": "Antarctica/Davis"
+    },
+    {
+        "name": "aqddu",
+        "description": "Estaci\u00f3n de Dumont d'Urville, Tierra Adelia",
+        "alias": "Antarctica/DumontDUrville",
+        "iana": "Antarctica/DumontDUrville"
+    },
+    {
+        "name": "aqmaw",
+        "description": "Estaci\u00f3n Mawson, Bah\u00eda Holme",
+        "alias": "Antarctica/Mawson",
+        "iana": "Antarctica/Mawson"
+    },
+    {
+        "name": "aqmcm",
+        "description": "Estaci\u00f3n McMurdo, Isla Ross",
+        "alias": "Antarctica/McMurdo",
+        "iana": "Antarctica/McMurdo"
+    },
+    {
+        "name": "aqplm",
+        "description": "Estaci\u00f3n Palmer, Isla Anvers",
+        "alias": "Antarctica/Palmer",
+        "iana": "Antarctica/Palmer"
+    },
+    {
+        "name": "aqrot",
+        "description": "Estaci\u00f3n Rothera, Isla Adelaida",
+        "alias": "Antarctica/Rothera",
+        "iana": "Antarctica/Rothera"
+    },
+    {
+        "name": "aqsyw",
+        "description": "Estaci\u00f3n Syowa, Isla Ongul Este",
+        "alias": "Antarctica/Syowa",
+        "iana": "Antarctica/Syowa"
+    },
+    {
+        "name": "aqtrl",
+        "description": "Estaci\u00f3n Troll, Reina Maud",
+        "alias": "Antarctica/Troll",
+        "iana": "Antarctica/Troll"
+    },
+    {
+        "name": "aqvos",
+        "description": "Estaci\u00f3n Vostok, Lago Vostok",
+        "alias": "Antarctica/Vostok",
+        "iana": "Antarctica/Vostok"
+    },
+    {
+        "name": "arbue",
+        "description": "Buenos Aires, Argentina",
+        "alias": "America/Buenos_Aires America/Argentina/Buenos_Aires",
+        "iana": "America/Argentina/Buenos_Aires"
+    },
+    {
+        "name": "arcor",
+        "description": "C\u00f3rdoba, Argentina",
+        "alias": "America/Cordoba America/Argentina/Cordoba America/Rosario",
+        "iana": "America/Argentina/Cordoba"
+    },
+    {
+        "name": "arctc",
+        "description": "Catamarca, Argentina",
+        "alias": "America/Catamarca America/Argentina/Catamarca America/Argentina/ComodRivadavia",
+        "iana": "America/Argentina/Catamarca"
+    },
+    {
+        "name": "arirj",
+        "description": "La Rioja, Argentina",
+        "alias": "America/Argentina/La_Rioja",
+        "iana": "America/Argentina/La_Rioja"
+    },
+    {
+        "name": "arjuj",
+        "description": "Jujuy, Argentina",
+        "alias": "America/Jujuy America/Argentina/Jujuy",
+        "iana": "America/Argentina/Jujuy"
+    },
+    {
+        "name": "arluq",
+        "description": "San Luis, Argentina",
+        "alias": "America/Argentina/San_Luis",
+        "iana": "America/Argentina/San_Luis"
+    },
+    {
+        "name": "armdz",
+        "description": "Mendoza, Argentina",
+        "alias": "America/Mendoza America/Argentina/Mendoza",
+        "iana": "America/Argentina/Mendoza"
+    },
+    {
+        "name": "arrgl",
+        "description": "R\u00edo Gallegos, Argentina",
+        "alias": "America/Argentina/Rio_Gallegos",
+        "iana": "America/Argentina/Rio_Gallegos"
+    },
+    {
+        "name": "arsla",
+        "description": "Salta, Argentina",
+        "alias": "America/Argentina/Salta",
+        "iana": "America/Argentina/Salta"
+    },
+    {
+        "name": "artuc",
+        "description": "Tucum\u00e1n, Argentina",
+        "alias": "America/Argentina/Tucuman",
+        "iana": "America/Argentina/Tucuman"
+    },
+    {
+        "name": "aruaq",
+        "description": "San Juan, Argentina",
+        "alias": "America/Argentina/San_Juan",
+        "iana": "America/Argentina/San_Juan"
+    },
+    {
+        "name": "arush",
+        "description": "Ushuaia, Argentina",
+        "alias": "America/Argentina/Ushuaia",
+        "iana": "America/Argentina/Ushuaia"
+    },
+    {
+        "name": "asppg",
+        "description": "Pago Pago, Samoa Americana",
+        "alias": "Pacific/Pago_Pago Pacific/Samoa US/Samoa",
+        "iana": "Pacific/Pago_Pago"
+    },
+    {
+        "name": "atvie",
+        "description": "Viena, Austria",
+        "alias": "Europe/Vienna",
+        "iana": "Europe/Vienna"
+    },
+    {
+        "name": "auadl",
+        "description": "Adelaida, Australia",
+        "alias": "Australia/Adelaide Australia/South",
+        "iana": "Australia/Adelaide"
+    },
+    {
+        "name": "aubhq",
+        "description": "Broken Hill, Australia",
+        "alias": "Australia/Broken_Hill Australia/Yancowinna",
+        "iana": "Australia/Broken_Hill"
+    },
+    {
+        "name": "aubne",
+        "description": "Brisbane, Australia",
+        "alias": "Australia/Brisbane Australia/Queensland",
+        "iana": "Australia/Brisbane"
+    },
+    {
+        "name": "audrw",
+        "description": "Darwin, Australia",
+        "alias": "Australia/Darwin Australia/North",
+        "iana": "Australia/Darwin"
+    },
+    {
+        "name": "aueuc",
+        "description": "Eucla, Australia",
+        "alias": "Australia/Eucla",
+        "iana": "Australia/Eucla"
+    },
+    {
+        "name": "auhba",
+        "description": "Hobart, Australia",
+        "alias": "Australia/Hobart Australia/Tasmania Australia/Currie",
+        "iana": "Australia/Hobart"
+    },
+    {
+        "name": "auldc",
+        "description": "Isla Lindeman, Australia",
+        "alias": "Australia/Lindeman",
+        "iana": "Australia/Lindeman"
+    },
+    {
+        "name": "auldh",
+        "description": "Isla Lord Howe, Australia",
+        "alias": "Australia/Lord_Howe Australia/LHI",
+        "iana": "Australia/Lord_Howe"
+    },
+    {
+        "name": "aumel",
+        "description": "Melbourne, Australia",
+        "alias": "Australia/Melbourne Australia/Victoria",
+        "iana": "Australia/Melbourne"
+    },
+    {
+        "name": "aumqi",
+        "description": "Estaci\u00f3n de Isla Macquarie, Isla Macquarie",
+        "alias": "Antarctica/Macquarie",
+        "iana": "Antarctica/Macquarie"
+    },
+    {
+        "name": "auper",
+        "description": "Perth, Australia",
+        "alias": "Australia/Perth Australia/West",
+        "iana": "Australia/Perth"
+    },
+    {
+        "name": "ausyd",
+        "description": "S\u00eddney, Australia",
+        "alias": "Australia/Sydney Australia/ACT Australia/Canberra Australia/NSW",
+        "iana": "Australia/Sydney"
+    },
+    {
+        "name": "awaua",
+        "description": "Aruba",
+        "alias": "America/Aruba",
+        "iana": "America/Aruba"
+    },
+    {
+        "name": "azbak",
+        "description": "Bak\u00fa, Azerbaiy\u00e1n",
+        "alias": "Asia/Baku",
+        "iana": "Asia/Baku"
+    },
+    {
+        "name": "basjj",
+        "description": "Sarajevo, Bosnia y Herzegovina",
+        "alias": "Europe/Sarajevo",
+        "iana": "Europe/Sarajevo"
+    },
+    {
+        "name": "bbbgi",
+        "description": "Barbados",
+        "alias": "America/Barbados",
+        "iana": "America/Barbados"
+    },
+    {
+        "name": "bddac",
+        "description": "Dacca, Bangladesh",
+        "alias": "Asia/Dhaka Asia/Dacca",
+        "iana": "Asia/Dhaka"
+    },
+    {
+        "name": "bebru",
+        "description": "Bruselas, B\u00e9lgica",
+        "alias": "Europe/Brussels",
+        "iana": "Europe/Brussels"
+    },
+    {
+        "name": "bfoua",
+        "description": "Uagadug\u00fa, Burkina Faso",
+        "alias": "Africa/Ouagadougou",
+        "iana": "Africa/Ouagadougou"
+    },
+    {
+        "name": "bgsof",
+        "description": "Sof\u00eda, Bulgaria",
+        "alias": "Europe/Sofia",
+        "iana": "Europe/Sofia"
+    },
+    {
+        "name": "bhbah",
+        "description": "Bar\u00e9in",
+        "alias": "Asia/Bahrain",
+        "iana": "Asia/Bahrain"
+    },
+    {
+        "name": "bibjm",
+        "description": "Buyumbura, Burundi",
+        "alias": "Africa/Bujumbura",
+        "iana": "Africa/Bujumbura"
+    },
+    {
+        "name": "bjptn",
+        "description": "Porto-Novo, Ben\u00edn",
+        "alias": "Africa/Porto-Novo",
+        "iana": "Africa/Porto-Novo"
+    },
+    {
+        "name": "bmbda",
+        "description": "Bermudas",
+        "alias": "Atlantic/Bermuda",
+        "iana": "Atlantic/Bermuda"
+    },
+    {
+        "name": "bnbwn",
+        "description": "Brun\u00e9i",
+        "alias": "Asia/Brunei",
+        "iana": "Asia/Brunei"
+    },
+    {
+        "name": "bolpb",
+        "description": "La Paz, Bolivia",
+        "alias": "America/La_Paz",
+        "iana": "America/La_Paz"
+    },
+    {
+        "name": "bqkra",
+        "description": "Bonaire, Sint Estatius y Saba",
+        "alias": "America/Kralendijk",
+        "iana": "America/Kralendijk"
+    },
+    {
+        "name": "braux",
+        "description": "Aragua\u00edna, Brasil",
+        "alias": "America/Araguaina",
+        "iana": "America/Araguaina"
+    },
+    {
+        "name": "brbel",
+        "description": "Bel\u00e9n, Brasil",
+        "alias": "America/Belem",
+        "iana": "America/Belem"
+    },
+    {
+        "name": "brbvb",
+        "description": "Boa Vista, Brasil",
+        "alias": "America/Boa_Vista",
+        "iana": "America/Boa_Vista"
+    },
+    {
+        "name": "brcgb",
+        "description": "Cuiab\u00e1, Brasil",
+        "alias": "America/Cuiaba",
+        "iana": "America/Cuiaba"
+    },
+    {
+        "name": "brcgr",
+        "description": "Campo Grande, Brasil",
+        "alias": "America/Campo_Grande",
+        "iana": "America/Campo_Grande"
+    },
+    {
+        "name": "brern",
+        "description": "Eirunep\u00e9, Brasil",
+        "alias": "America/Eirunepe",
+        "iana": "America/Eirunepe"
+    },
+    {
+        "name": "brfen",
+        "description": "Fernando de Noronha, Brasil",
+        "alias": "America/Noronha Brazil/DeNoronha",
+        "iana": "America/Noronha"
+    },
+    {
+        "name": "brfor",
+        "description": "Fortaleza, Brasil",
+        "alias": "America/Fortaleza",
+        "iana": "America/Fortaleza"
+    },
+    {
+        "name": "brmao",
+        "description": "Manaos, Brasil",
+        "alias": "America/Manaus Brazil/West",
+        "iana": "America/Manaus"
+    },
+    {
+        "name": "brmcz",
+        "description": "Macei\u00f3, Brasil",
+        "alias": "America/Maceio",
+        "iana": "America/Maceio"
+    },
+    {
+        "name": "brpvh",
+        "description": "Porto Velho, Brasil",
+        "alias": "America/Porto_Velho",
+        "iana": "America/Porto_Velho"
+    },
+    {
+        "name": "brrbr",
+        "description": "R\u00edo Branco, Brasil",
+        "alias": "America/Rio_Branco America/Porto_Acre Brazil/Acre",
+        "iana": "America/Rio_Branco"
+    },
+    {
+        "name": "brrec",
+        "description": "Recife, Brasil",
+        "alias": "America/Recife",
+        "iana": "America/Recife"
+    },
+    {
+        "name": "brsao",
+        "description": "S\u00e3o Paulo, Brasil",
+        "alias": "America/Sao_Paulo Brazil/East",
+        "iana": "America/Sao_Paulo"
+    },
+    {
+        "name": "brssa",
+        "description": "Bah\u00eda, Brasil",
+        "alias": "America/Bahia",
+        "iana": "America/Bahia"
+    },
+    {
+        "name": "brstm",
+        "description": "Santar\u00e9m, Brasil",
+        "alias": "America/Santarem",
+        "iana": "America/Santarem"
+    },
+    {
+        "name": "bsnas",
+        "description": "Nassau, Bahamas",
+        "alias": "America/Nassau",
+        "iana": "America/Nassau"
+    },
+    {
+        "name": "btthi",
+        "description": "Timbu, But\u00e1n",
+        "alias": "Asia/Thimphu Asia/Thimbu",
+        "iana": "Asia/Thimphu"
+    },
+    {
+        "name": "bwgbe",
+        "description": "Gaborone, Botsuana",
+        "alias": "Africa/Gaborone",
+        "iana": "Africa/Gaborone"
+    },
+    {
+        "name": "bymsq",
+        "description": "Minsk, Bielorrusia",
+        "alias": "Europe/Minsk",
+        "iana": "Europe/Minsk"
+    },
+    {
+        "name": "bzbze",
+        "description": "Belice",
+        "alias": "America/Belize",
+        "iana": "America/Belize"
+    },
+    {
+        "name": "cacfq",
+        "description": "Crest\u00f3n, Canad\u00e1",
+        "alias": "America/Creston",
+        "iana": "America/Creston"
+    },
+    {
+        "name": "caedm",
+        "description": "Edmonton, Canad\u00e1",
+        "alias": "America/Edmonton Canada/Mountain America/Yellowknife",
+        "iana": "America/Edmonton"
+    },
+    {
+        "name": "cafne",
+        "description": "Fort Nelson, Canad\u00e1",
+        "alias": "America/Fort_Nelson",
+        "iana": "America/Fort_Nelson"
+    },
+    {
+        "name": "caglb",
+        "description": "Glace Bay, Canad\u00e1",
+        "alias": "America/Glace_Bay",
+        "iana": "America/Glace_Bay"
+    },
+    {
+        "name": "cagoo",
+        "description": "Goose Bay, Canad\u00e1",
+        "alias": "America/Goose_Bay",
+        "iana": "America/Goose_Bay"
+    },
+    {
+        "name": "cahal",
+        "description": "Halifax, Canad\u00e1",
+        "alias": "America/Halifax Canada/Atlantic",
+        "iana": "America/Halifax"
+    },
+    {
+        "name": "caiql",
+        "description": "Iqaluit, Canad\u00e1",
+        "alias": "America/Iqaluit America/Pangnirtung",
+        "iana": "America/Iqaluit"
+    },
+    {
+        "name": "camon",
+        "description": "Moncton, Canad\u00e1",
+        "alias": "America/Moncton",
+        "iana": "America/Moncton"
+    },
+    {
+        "name": "careb",
+        "description": "Resolute, Canad\u00e1",
+        "alias": "America/Resolute",
+        "iana": "America/Resolute"
+    },
+    {
+        "name": "careg",
+        "description": "Regina, Canad\u00e1",
+        "alias": "America/Regina Canada/East-Saskatchewan Canada/Saskatchewan",
+        "iana": "America/Regina"
+    },
+    {
+        "name": "casjf",
+        "description": "St. John's, Canad\u00e1",
+        "alias": "America/St_Johns Canada/Newfoundland",
+        "iana": "America/St_Johns"
+    },
+    {
+        "name": "cator",
+        "description": "Toronto, Canad\u00e1",
+        "alias": "America/Toronto America/Montreal Canada/Eastern America/Nipigon America/Thunder_Bay",
+        "iana": "America/Toronto"
+    },
+    {
+        "name": "cavan",
+        "description": "Vancouver, Canad\u00e1",
+        "alias": "America/Vancouver Canada/Pacific",
+        "iana": "America/Vancouver"
+    },
+    {
+        "name": "cawnp",
+        "description": "Winnipeg, Canad\u00e1",
+        "alias": "America/Winnipeg Canada/Central America/Rainy_River",
+        "iana": "America/Winnipeg"
+    },
+    {
+        "name": "caybx",
+        "description": "Blanc-Sablon, Canad\u00e1",
+        "alias": "America/Blanc-Sablon",
+        "iana": "America/Blanc-Sablon"
+    },
+    {
+        "name": "caycb",
+        "description": "Cambridge Bay, Canad\u00e1",
+        "alias": "America/Cambridge_Bay",
+        "iana": "America/Cambridge_Bay"
+    },
+    {
+        "name": "cayda",
+        "description": "Dawson, Canad\u00e1",
+        "alias": "America/Dawson",
+        "iana": "America/Dawson"
+    },
+    {
+        "name": "caydq",
+        "description": "Dawson Creek, Canad\u00e1",
+        "alias": "America/Dawson_Creek",
+        "iana": "America/Dawson_Creek"
+    },
+    {
+        "name": "cayek",
+        "description": "Rankin Inlet, Canad\u00e1",
+        "alias": "America/Rankin_Inlet",
+        "iana": "America/Rankin_Inlet"
+    },
+    {
+        "name": "cayev",
+        "description": "Inuvik, Canad\u00e1",
+        "alias": "America/Inuvik",
+        "iana": "America/Inuvik"
+    },
+    {
+        "name": "cayxy",
+        "description": "Whitehorse, Canad\u00e1",
+        "alias": "America/Whitehorse Canada/Yukon",
+        "iana": "America/Whitehorse"
+    },
+    {
+        "name": "cayyn",
+        "description": "Swift Current, Canad\u00e1",
+        "alias": "America/Swift_Current",
+        "iana": "America/Swift_Current"
+    },
+    {
+        "name": "cayzs",
+        "description": "Atikokan, Canad\u00e1",
+        "alias": "America/Coral_Harbour America/Atikokan",
+        "iana": "America/Atikokan"
+    },
+    {
+        "name": "cccck",
+        "description": "Islas Cocos (Keeling)",
+        "alias": "Indian/Cocos",
+        "iana": "Indian/Cocos"
+    },
+    {
+        "name": "cdfbm",
+        "description": "Lubumbashi, Rep\u00fablica Democr\u00e1tica del Congo",
+        "alias": "Africa/Lubumbashi",
+        "iana": "Africa/Lubumbashi"
+    },
+    {
+        "name": "cdfih",
+        "description": "Kinshasa, Rep\u00fablica Democr\u00e1tica del Congo",
+        "alias": "Africa/Kinshasa",
+        "iana": "Africa/Kinshasa"
+    },
+    {
+        "name": "cfbgf",
+        "description": "Bangui, Rep\u00fablica Centroafricana",
+        "alias": "Africa/Bangui",
+        "iana": "Africa/Bangui"
+    },
+    {
+        "name": "cgbzv",
+        "description": "Brazzaville, Rep\u00fablica del Congo",
+        "alias": "Africa/Brazzaville",
+        "iana": "Africa/Brazzaville"
+    },
+    {
+        "name": "chzrh",
+        "description": "Z\u00farich, Suiza",
+        "alias": "Europe/Zurich",
+        "iana": "Europe/Zurich"
+    },
+    {
+        "name": "ciabj",
+        "description": "Abiy\u00e1n, Costa de Marfil",
+        "alias": "Africa/Abidjan",
+        "iana": "Africa/Abidjan"
+    },
+    {
+        "name": "ckrar",
+        "description": "Rarotonga, Islas Cook",
+        "alias": "Pacific/Rarotonga",
+        "iana": "Pacific/Rarotonga"
+    },
+    {
+        "name": "clipc",
+        "description": "Isla de Pascua, Chile",
+        "alias": "Pacific/Easter Chile/EasterIsland",
+        "iana": "Pacific/Easter"
+    },
+    {
+        "name": "clpuq",
+        "description": "Punta Arenas, Chile",
+        "alias": "America/Punta_Arenas",
+        "iana": "America/Punta_Arenas"
+    },
+    {
+        "name": "clscl",
+        "description": "Santiago, Chile",
+        "alias": "America/Santiago Chile/Continental",
+        "iana": "America/Santiago"
+    },
+    {
+        "name": "cmdla",
+        "description": "Douala, Camer\u00fan",
+        "alias": "Africa/Douala",
+        "iana": "Africa/Douala"
+    },
+    {
+        "name": "cnsha",
+        "description": "Shangh\u00e1i, China",
+        "alias": "Asia/Shanghai Asia/Chongqing Asia/Chungking Asia/Harbin PRC",
+        "iana": "Asia/Shanghai"
+    },
+    {
+        "name": "cnurc",
+        "description": "\u00dcr\u00fcmqi, China",
+        "alias": "Asia/Urumqi Asia/Kashgar",
+        "iana": "Asia/Urumqi"
+    },
+    {
+        "name": "cobog",
+        "description": "Bogot\u00e1, Colombia",
+        "alias": "America/Bogota",
+        "iana": "America/Bogota"
+    },
+    {
+        "name": "crsjo",
+        "description": "Costa Rica",
+        "alias": "America/Costa_Rica",
+        "iana": "America/Costa_Rica"
+    },
+    {
+        "name": "cst6cdt",
+        "description": "Zona horaria POSIX para la hora central de EE. UU.",
+        "alias": "CST6CDT",
+        "iana": "CST6CDT"
+    },
+    {
+        "name": "cuhav",
+        "description": "La Habana, Cuba",
+        "alias": "America/Havana Cuba",
+        "iana": "America/Havana"
+    },
+    {
+        "name": "cvrai",
+        "description": "Cabo Verde",
+        "alias": "Atlantic/Cape_Verde",
+        "iana": "Atlantic/Cape_Verde"
+    },
+    {
+        "name": "cxxch",
+        "description": "Isla de Navidad",
+        "alias": "Indian/Christmas",
+        "iana": "Indian/Christmas"
+    },
+    {
+        "name": "cyfmg",
+        "description": "Famagusta, Chipre",
+        "alias": "Asia/Famagusta",
+        "iana": "Asia/Famagusta"
+    },
+    {
+        "name": "cynic",
+        "description": "Nicosia, Chipre",
+        "alias": "Asia/Nicosia Europe/Nicosia",
+        "iana": "Asia/Nicosia"
+    },
+    {
+        "name": "czprg",
+        "description": "Praga, Rep\u00fablica Checa",
+        "alias": "Europe/Prague",
+        "iana": "Europe/Prague"
+    },
+    {
+        "name": "deber",
+        "description": "Berl\u00edn, Alemania",
+        "alias": "Europe/Berlin",
+        "iana": "Europe/Berlin"
+    },
+    {
+        "name": "debsngn",
+        "description": "Busingen, Alemania",
+        "alias": "Europe/Busingen",
+        "iana": "Europe/Busingen"
+    },
+    {
+        "name": "djjib",
+        "description": "Yibuti",
+        "alias": "Africa/Djibouti",
+        "iana": "Africa/Djibouti"
+    },
+    {
+        "name": "dkcph",
+        "description": "Copenhague, Dinamarca",
+        "alias": "Europe/Copenhagen",
+        "iana": "Europe/Copenhagen"
+    },
+    {
+        "name": "dmdom",
+        "description": "Dominica",
+        "alias": "America/Dominica",
+        "iana": "America/Dominica"
+    },
+    {
+        "name": "dosdq",
+        "description": "Santo Domingo, Rep\u00fablica Dominicana",
+        "alias": "America/Santo_Domingo",
+        "iana": "America/Santo_Domingo"
+    },
+    {
+        "name": "dzalg",
+        "description": "Argel, Argelia",
+        "alias": "Africa/Algiers",
+        "iana": "Africa/Algiers"
+    },
+    {
+        "name": "ecgps",
+        "description": "Islas Gal\u00e1pagos, Ecuador",
+        "alias": "Pacific/Galapagos",
+        "iana": "Pacific/Galapagos"
+    },
+    {
+        "name": "ecgye",
+        "description": "Guayaquil, Ecuador",
+        "alias": "America/Guayaquil",
+        "iana": "America/Guayaquil"
+    },
+    {
+        "name": "eetll",
+        "description": "Tallin, Estonia",
+        "alias": "Europe/Tallinn",
+        "iana": "Europe/Tallinn"
+    },
+    {
+        "name": "egcai",
+        "description": "El Cairo, Egipto",
+        "alias": "Africa/Cairo Egypt",
+        "iana": "Africa/Cairo"
+    },
+    {
+        "name": "eheai",
+        "description": "El Aai\u00fan, Sahara Occidental",
+        "alias": "Africa/El_Aaiun",
+        "iana": "Africa/El_Aaiun"
+    },
+    {
+        "name": "erasm",
+        "description": "Asmara, Eritrea",
+        "alias": "Africa/Asmera Africa/Asmara",
+        "iana": "Africa/Asmara"
+    },
+    {
+        "name": "esceu",
+        "description": "Ceuta, Espa\u00f1a",
+        "alias": "Africa/Ceuta",
+        "iana": "Africa/Ceuta"
+    },
+    {
+        "name": "eslpa",
+        "description": "Islas Canarias, Espa\u00f1a",
+        "alias": "Atlantic/Canary",
+        "iana": "Atlantic/Canary"
+    },
+    {
+        "name": "esmad",
+        "description": "Madrid, Espa\u00f1a",
+        "alias": "Europe/Madrid",
+        "iana": "Europe/Madrid"
+    },
+    {
+        "name": "est5edt",
+        "description": "Zona horaria POSIX para la hora del este de EE. UU.",
+        "alias": "EST5EDT",
+        "iana": "EST5EDT"
+    },
+    {
+        "name": "etadd",
+        "description": "Ad\u00eds Abeba, Etiop\u00eda",
+        "alias": "Africa/Addis_Ababa",
+        "iana": "Africa/Addis_Ababa"
+    },
+    {
+        "name": "fihel",
+        "description": "Helsinki, Finlandia",
+        "alias": "Europe/Helsinki",
+        "iana": "Europe/Helsinki"
+    },
+    {
+        "name": "fimhq",
+        "description": "Mariehamn, \u00c5land, Finlandia",
+        "alias": "Europe/Mariehamn",
+        "iana": "Europe/Mariehamn"
+    },
+    {
+        "name": "fjsuv",
+        "description": "Fiyi",
+        "alias": "Pacific/Fiji",
+        "iana": "Pacific/Fiji"
+    },
+    {
+        "name": "fkpsy",
+        "description": "Stanley, Islas Malvinas",
+        "alias": "Atlantic/Stanley",
+        "iana": "Atlantic/Stanley"
+    },
+    {
+        "name": "fmksa",
+        "description": "Kosrae, Micronesia",
+        "alias": "Pacific/Kosrae",
+        "iana": "Pacific/Kosrae"
+    },
+    {
+        "name": "fmpni",
+        "description": "Pohnpei, Micronesia",
+        "alias": "Pacific/Ponape Pacific/Pohnpei",
+        "iana": "Pacific/Pohnpei"
+    },
+    {
+        "name": "fmtkk",
+        "description": "Chuuk, Micronesia",
+        "alias": "Pacific/Truk Pacific/Chuuk Pacific/Yap",
+        "iana": "Pacific/Chuuk"
+    },
+    {
+        "name": "fotho",
+        "description": "Islas Feroe",
+        "alias": "Atlantic/Faeroe Atlantic/Faroe",
+        "iana": "Atlantic/Faroe"
+    },
+    {
+        "name": "frpar",
+        "description": "Par\u00eds, Francia",
+        "alias": "Europe/Paris",
+        "iana": "Europe/Paris"
+    },
+    {
+        "name": "galbv",
+        "description": "Libreville, Gab\u00f3n",
+        "alias": "Africa/Libreville",
+        "iana": "Africa/Libreville"
+    },
+    {
+        "name": "gazastrp",
+        "description": "Franja de Gaza, Territorios Palestinos",
+        "alias": "Asia/Gaza",
+        "iana": "Asia/Gaza"
+    },
+    {
+        "name": "gblon",
+        "description": "Londres, Reino Unido",
+        "alias": "Europe/London Europe/Belfast GB GB-Eire",
+        "iana": "Europe/London"
+    },
+    {
+        "name": "gdgnd",
+        "description": "Granada",
+        "alias": "America/Grenada",
+        "iana": "America/Grenada"
+    },
+    {
+        "name": "getbs",
+        "description": "Tiflis, Georgia",
+        "alias": "Asia/Tbilisi",
+        "iana": "Asia/Tbilisi"
+    },
+    {
+        "name": "gfcay",
+        "description": "Cayena, Guayana Francesa",
+        "alias": "America/Cayenne",
+        "iana": "America/Cayenne"
+    },
+    {
+        "name": "gggci",
+        "description": "Guernsey",
+        "alias": "Europe/Guernsey",
+        "iana": "Europe/Guernsey"
+    },
+    {
+        "name": "ghacc",
+        "description": "Acra, Ghana",
+        "alias": "Africa/Accra",
+        "iana": "Africa/Accra"
+    },
+    {
+        "name": "gigib",
+        "description": "Gibraltar",
+        "alias": "Europe/Gibraltar",
+        "iana": "Europe/Gibraltar"
+    },
+    {
+        "name": "gldkshvn",
+        "description": "Danmarkshavn, Groenlandia",
+        "alias": "America/Danmarkshavn",
+        "iana": "America/Danmarkshavn"
+    },
+    {
+        "name": "glgoh",
+        "description": "Nuuk (Godth\u00e5b), Groenlandia",
+        "alias": "America/Godthab America/Nuuk",
+        "iana": "America/Nuuk"
+    },
+    {
+        "name": "globy",
+        "description": "Ittoqqortoormiit (Scoresbysund), Groenlandia",
+        "alias": "America/Scoresbysund",
+        "iana": "America/Scoresbysund"
+    },
+    {
+        "name": "glthu",
+        "description": "Qaanaaq (Thule), Groenlandia",
+        "alias": "America/Thule",
+        "iana": "America/Thule"
+    },
+    {
+        "name": "gmbjl",
+        "description": "Banjul, Gambia",
+        "alias": "Africa/Banjul",
+        "iana": "Africa/Banjul"
+    },
+    {
+        "name": "gmt",
+        "description": "Tiempo medio de Greenwich",
+        "alias": "Etc/GMT Etc/GMT+0 Etc/GMT-0 Etc/GMT0 Etc/Greenwich GMT GMT+0 GMT-0 GMT0 Greenwich",
+        "iana": "Etc/GMT"
+    },
+    {
+        "name": "gncky",
+        "description": "Conakry, Guinea",
+        "alias": "Africa/Conakry",
+        "iana": "Africa/Conakry"
+    },
+    {
+        "name": "gpbbr",
+        "description": "Guadalupe",
+        "alias": "America/Guadeloupe",
+        "iana": "America/Guadeloupe"
+    },
+    {
+        "name": "gpmsb",
+        "description": "Marigot, San Mart\u00edn",
+        "alias": "America/Marigot",
+        "iana": "America/Marigot"
+    },
+    {
+        "name": "gpsbh",
+        "description": "San Bartolom\u00e9",
+        "alias": "America/St_Barthelemy",
+        "iana": "America/St_Barthelemy"
+    },
+    {
+        "name": "gqssg",
+        "description": "Malabo, Guinea Ecuatorial",
+        "alias": "Africa/Malabo",
+        "iana": "Africa/Malabo"
+    },
+    {
+        "name": "grath",
+        "description": "Atenas, Grecia",
+        "alias": "Europe/Athens",
+        "iana": "Europe/Athens"
+    },
+    {
+        "name": "gsgrv",
+        "description": "Islas Georgias del Sur y S\u00e1ndwich del Sur",
+        "alias": "Atlantic/South_Georgia",
+        "iana": "Atlantic/South_Georgia"
+    },
+    {
+        "name": "gtgua",
+        "description": "Guatemala",
+        "alias": "America/Guatemala",
+        "iana": "America/Guatemala"
+    },
+    {
+        "name": "gugum",
+        "description": "Guam",
+        "alias": "Pacific/Guam",
+        "iana": "Pacific/Guam"
+    },
+    {
+        "name": "gwoxb",
+        "description": "Bissau, Guinea-Bis\u00e1u",
+        "alias": "Africa/Bissau",
+        "iana": "Africa/Bissau"
+    },
+    {
+        "name": "gygeo",
+        "description": "Guyana",
+        "alias": "America/Guyana",
+        "iana": "America/Guyana"
+    },
+    {
+        "name": "hebron",
+        "description": "Cisjordania, Territorios Palestinos",
+        "alias": "Asia/Hebron",
+        "iana": "Asia/Hebron"
+    },
+    {
+        "name": "hkhkg",
+        "description": "Hong Kong SAR China",
+        "alias": "Asia/Hong_Kong Hongkong",
+        "iana": "Asia/Hong_Kong"
+    },
+    {
+        "name": "hntgu",
+        "description": "Tegucigalpa, Honduras",
+        "alias": "America/Tegucigalpa",
+        "iana": "America/Tegucigalpa"
+    },
+    {
+        "name": "hrzag",
+        "description": "Zagreb, Croacia",
+        "alias": "Europe/Zagreb",
+        "iana": "Europe/Zagreb"
+    },
+    {
+        "name": "htpap",
+        "description": "Puerto Pr\u00edncipe, Hait\u00ed",
+        "alias": "America/Port-au-Prince",
+        "iana": "America/Port-au-Prince"
+    },
+    {
+        "name": "hubud",
+        "description": "Budapest, Hungr\u00eda",
+        "alias": "Europe/Budapest",
+        "iana": "Europe/Budapest"
+    },
+    {
+        "name": "iddjj",
+        "description": "Jayapura, Indonesia",
+        "alias": "Asia/Jayapura",
+        "iana": "Asia/Jayapura"
+    },
+    {
+        "name": "idjkt",
+        "description": "Yakarta, Indonesia",
+        "alias": "Asia/Jakarta",
+        "iana": "Asia/Jakarta"
+    },
+    {
+        "name": "idmak",
+        "description": "Makasar, Indonesia",
+        "alias": "Asia/Makassar Asia/Ujung_Pandang",
+        "iana": "Asia/Makassar"
+    },
+    {
+        "name": "idpnk",
+        "description": "Pontianak, Indonesia",
+        "alias": "Asia/Pontianak",
+        "iana": "Asia/Pontianak"
+    },
+    {
+        "name": "iedub",
+        "description": "Dubl\u00edn, Irlanda",
+        "alias": "Europe/Dublin Eire",
+        "iana": "Europe/Dublin"
+    },
+    {
+        "name": "imdgs",
+        "description": "Isla de Man",
+        "alias": "Europe/Isle_of_Man",
+        "iana": "Europe/Isle_of_Man"
+    },
+    {
+        "name": "inccu",
+        "description": "Calcuta, India",
+        "alias": "Asia/Calcutta Asia/Kolkata",
+        "iana": "Asia/Kolkata"
+    },
+    {
+        "name": "iodga",
+        "description": "Archipi\u00e9lago de Chagos",
+        "alias": "Indian/Chagos",
+        "iana": "Indian/Chagos"
+    },
+    {
+        "name": "iqbgw",
+        "description": "Bagdad, Irak",
+        "alias": "Asia/Baghdad",
+        "iana": "Asia/Baghdad"
+    },
+    {
+        "name": "irthr",
+        "description": "Teher\u00e1n, Ir\u00e1n",
+        "alias": "Asia/Tehran Iran",
+        "iana": "Asia/Tehran"
+    },
+    {
+        "name": "isrey",
+        "description": "Reikiavik, Islandia",
+        "alias": "Atlantic/Reykjavik Iceland",
+        "iana": "Atlantic/Reykjavik"
+    },
+    {
+        "name": "itrom",
+        "description": "Roma, Italia",
+        "alias": "Europe/Rome",
+        "iana": "Europe/Rome"
+    },
+    {
+        "name": "jeruslm",
+        "description": "Jerusal\u00e9n",
+        "alias": "Asia/Jerusalem Asia/Tel_Aviv Israel",
+        "iana": "Asia/Jerusalem"
+    },
+    {
+        "name": "jesth",
+        "description": "Jersey",
+        "alias": "Europe/Jersey",
+        "iana": "Europe/Jersey"
+    },
+    {
+        "name": "jmkin",
+        "description": "Jamaica",
+        "alias": "America/Jamaica Jamaica",
+        "iana": "America/Jamaica"
+    },
+    {
+        "name": "joamm",
+        "description": "Am\u00e1n, Jordania",
+        "alias": "Asia/Amman",
+        "iana": "Asia/Amman"
+    },
+    {
+        "name": "jptyo",
+        "description": "Tokio, Jap\u00f3n",
+        "alias": "Asia/Tokyo Japan",
+        "iana": "Asia/Tokyo"
+    },
+    {
+        "name": "kenbo",
+        "description": "Nairobi, Kenia",
+        "alias": "Africa/Nairobi",
+        "iana": "Africa/Nairobi"
+    },
+    {
+        "name": "kgfru",
+        "description": "Biskek, Kirguist\u00e1n",
+        "alias": "Asia/Bishkek",
+        "iana": "Asia/Bishkek"
+    },
+    {
+        "name": "khpnh",
+        "description": "Phnom Penh, Camboya",
+        "alias": "Asia/Phnom_Penh",
+        "iana": "Asia/Phnom_Penh"
+    },
+    {
+        "name": "kicxi",
+        "description": "Kiritimati, Kiribati",
+        "alias": "Pacific/Kiritimati",
+        "iana": "Pacific/Kiritimati"
+    },
+    {
+        "name": "kipho",
+        "description": "Isla Enderbury, Kiribati",
+        "alias": "Pacific/Enderbury Pacific/Kanton",
+        "iana": "Pacific/Kanton"
+    },
+    {
+        "name": "kitrw",
+        "description": "Tarawa, Kiribati",
+        "alias": "Pacific/Tarawa",
+        "iana": "Pacific/Tarawa"
+    },
+    {
+        "name": "kmyva",
+        "description": "Comoras",
+        "alias": "Indian/Comoro",
+        "iana": "Indian/Comoro"
+    },
+    {
+        "name": "knbas",
+        "description": "San Crist\u00f3bal y Nieves",
+        "alias": "America/St_Kitts",
+        "iana": "America/St_Kitts"
+    },
+    {
+        "name": "kpfnj",
+        "description": "Pyongyang, Corea del Norte",
+        "alias": "Asia/Pyongyang",
+        "iana": "Asia/Pyongyang"
+    },
+    {
+        "name": "krsel",
+        "description": "Se\u00fal, Corea del Sur",
+        "alias": "Asia/Seoul ROK",
+        "iana": "Asia/Seoul"
+    },
+    {
+        "name": "kwkwi",
+        "description": "Kuwait",
+        "alias": "Asia/Kuwait",
+        "iana": "Asia/Kuwait"
+    },
+    {
+        "name": "kygec",
+        "description": "Islas Caim\u00e1n",
+        "alias": "America/Cayman",
+        "iana": "America/Cayman"
+    },
+    {
+        "name": "kzaau",
+        "description": "Aqtau, Kazajist\u00e1n",
+        "alias": "Asia/Aqtau",
+        "iana": "Asia/Aqtau"
+    },
+    {
+        "name": "kzakx",
+        "description": "Aktobe, Kazajist\u00e1n",
+        "alias": "Asia/Aqtobe",
+        "iana": "Asia/Aqtobe"
+    },
+    {
+        "name": "kzala",
+        "description": "Almaty, Kazajist\u00e1n",
+        "alias": "Asia/Almaty",
+        "iana": "Asia/Almaty"
+    },
+    {
+        "name": "kzguw",
+        "description": "Atyrau (Guryev), Kazajist\u00e1n",
+        "alias": "Asia/Atyrau",
+        "iana": "Asia/Atyrau"
+    },
+    {
+        "name": "kzksn",
+        "description": "Kostanay, Kazajist\u00e1n",
+        "alias": "Asia/Qostanay",
+        "iana": "Asia/Qostanay"
+    },
+    {
+        "name": "kzkzo",
+        "description": "Kyzylorda, Kazajist\u00e1n",
+        "alias": "Asia/Qyzylorda",
+        "iana": "Asia/Qyzylorda"
+    },
+    {
+        "name": "kzura",
+        "description": "Oral, Kazajist\u00e1n",
+        "alias": "Asia/Oral",
+        "iana": "Asia/Oral"
+    },
+    {
+        "name": "lavte",
+        "description": "Vienti\u00e1n, Laos",
+        "alias": "Asia/Vientiane",
+        "iana": "Asia/Vientiane"
+    },
+    {
+        "name": "lbbey",
+        "description": "Beirut, L\u00edbano",
+        "alias": "Asia/Beirut",
+        "iana": "Asia/Beirut"
+    },
+    {
+        "name": "lccas",
+        "description": "Santa Luc\u00eda",
+        "alias": "America/St_Lucia",
+        "iana": "America/St_Lucia"
+    },
+    {
+        "name": "livdz",
+        "description": "Vaduz, Liechtenstein",
+        "alias": "Europe/Vaduz",
+        "iana": "Europe/Vaduz"
+    },
+    {
+        "name": "lkcmb",
+        "description": "Colombo, Sri Lanka",
+        "alias": "Asia/Colombo",
+        "iana": "Asia/Colombo"
+    },
+    {
+        "name": "lrmlw",
+        "description": "Monrovia, Liberia",
+        "alias": "Africa/Monrovia",
+        "iana": "Africa/Monrovia"
+    },
+    {
+        "name": "lsmsu",
+        "description": "Maseru, Lesoto",
+        "alias": "Africa/Maseru",
+        "iana": "Africa/Maseru"
+    },
+    {
+        "name": "ltvno",
+        "description": "Vilna, Lituania",
+        "alias": "Europe/Vilnius",
+        "iana": "Europe/Vilnius"
+    },
+    {
+        "name": "lulux",
+        "description": "Luxemburgo",
+        "alias": "Europe/Luxembourg",
+        "iana": "Europe/Luxembourg"
+    },
+    {
+        "name": "lvrix",
+        "description": "Riga, Letonia",
+        "alias": "Europe/Riga",
+        "iana": "Europe/Riga"
+    },
+    {
+        "name": "lytip",
+        "description": "Tr\u00edpoli, Libia",
+        "alias": "Africa/Tripoli Libya",
+        "iana": "Africa/Tripoli"
+    },
+    {
+        "name": "macas",
+        "description": "Casablanca, Marruecos",
+        "alias": "Africa/Casablanca",
+        "iana": "Africa/Casablanca"
+    },
+    {
+        "name": "mcmon",
+        "description": "M\u00f3naco",
+        "alias": "Europe/Monaco",
+        "iana": "Europe/Monaco"
+    },
+    {
+        "name": "mdkiv",
+        "description": "Chisin\u00e1u, Moldavia",
+        "alias": "Europe/Chisinau Europe/Tiraspol",
+        "iana": "Europe/Chisinau"
+    },
+    {
+        "name": "metgd",
+        "description": "Podgorica, Montenegro",
+        "alias": "Europe/Podgorica",
+        "iana": "Europe/Podgorica"
+    },
+    {
+        "name": "mgtnr",
+        "description": "Antananarivo, Madagascar",
+        "alias": "Indian/Antananarivo",
+        "iana": "Indian/Antananarivo"
+    },
+    {
+        "name": "mhkwa",
+        "description": "Kwajalein, Islas Marshall",
+        "alias": "Pacific/Kwajalein Kwajalein",
+        "iana": "Pacific/Kwajalein"
+    },
+    {
+        "name": "mhmaj",
+        "description": "Majuro, Islas Marshall",
+        "alias": "Pacific/Majuro",
+        "iana": "Pacific/Majuro"
+    },
+    {
+        "name": "mkskp",
+        "description": "Skopje, Macedonia",
+        "alias": "Europe/Skopje",
+        "iana": "Europe/Skopje"
+    },
+    {
+        "name": "mlbko",
+        "description": "Bamako, Mal\u00ed",
+        "alias": "Africa/Bamako Africa/Timbuktu",
+        "iana": "Africa/Bamako"
+    },
+    {
+        "name": "mmrgn",
+        "description": "Rang\u00fan, Birmania",
+        "alias": "Asia/Rangoon Asia/Yangon",
+        "iana": "Asia/Yangon"
+    },
+    {
+        "name": "mncoq",
+        "description": "Choibalsan, Mongolia",
+        "alias": "Asia/Choibalsan",
+        "iana": "Asia/Choibalsan"
+    },
+    {
+        "name": "mnhvd",
+        "description": "Hovd, Mongolia",
+        "alias": "Asia/Hovd",
+        "iana": "Asia/Hovd"
+    },
+    {
+        "name": "mnuln",
+        "description": "Ulan Bator, Mongolia",
+        "alias": "Asia/Ulaanbaatar Asia/Ulan_Bator",
+        "iana": "Asia/Ulaanbaatar"
+    },
+    {
+        "name": "momfm",
+        "description": "Macao, China",
+        "alias": "Asia/Macau Asia/Macao",
+        "iana": "Asia/Macau"
+    },
+    {
+        "name": "mpspn",
+        "description": "Saip\u00e1n, Islas Marianas del Norte",
+        "alias": "Pacific/Saipan",
+        "iana": "Pacific/Saipan"
+    },
+    {
+        "name": "mqfdf",
+        "description": "Martinica",
+        "alias": "America/Martinique",
+        "iana": "America/Martinique"
+    },
+    {
+        "name": "mrnkc",
+        "description": "Nuakchot, Mauritania",
+        "alias": "Africa/Nouakchott",
+        "iana": "Africa/Nouakchott"
+    },
+    {
+        "name": "msmni",
+        "description": "Montserrat",
+        "alias": "America/Montserrat",
+        "iana": "America/Montserrat"
+    },
+    {
+        "name": "mst7mdt",
+        "description": "Zona horaria estilo POSIX para la hora de monta\u00f1a de EE.UU.",
+        "alias": "MST7MDT",
+        "iana": "MST7MDT"
+    },
+    {
+        "name": "mtmla",
+        "description": "Malta",
+        "alias": "Europe/Malta",
+        "iana": "Europe/Malta"
+    },
+    {
+        "name": "muplu",
+        "description": "Mauricio",
+        "alias": "Indian/Mauritius",
+        "iana": "Indian/Mauritius"
+    },
+    {
+        "name": "mvmle",
+        "description": "Maldivas",
+        "alias": "Indian/Maldives",
+        "iana": "Indian/Maldives"
+    },
+    {
+        "name": "mwblz",
+        "description": "Blantyre, Malaui",
+        "alias": "Africa/Blantyre",
+        "iana": "Africa/Blantyre"
+    },
+    {
+        "name": "mxchi",
+        "description": "Chihuahua, M\u00e9xico",
+        "alias": "America/Chihuahua",
+        "iana": "America/Chihuahua"
+    },
+    {
+        "name": "mxcun",
+        "description": "Canc\u00fan, M\u00e9xico",
+        "alias": "America/Cancun",
+        "iana": "America/Cancun"
+    },
+    {
+        "name": "mxcjs",
+        "description": "Ciudad Ju\u00e1rez, M\u00e9xico",
+        "alias": "America/Ciudad_Juarez",
+        "iana": "America/Ciudad_Juarez"
+    },
+    {
+        "name": "mxhmo",
+        "description": "Hermosillo, M\u00e9xico",
+        "alias": "America/Hermosillo",
+        "iana": "America/Hermosillo"
+    },
+    {
+        "name": "mxmam",
+        "description": "Matamoros, M\u00e9xico",
+        "alias": "America/Matamoros",
+        "iana": "America/Matamoros"
+    },
+    {
+        "name": "mxmex",
+        "description": "Ciudad de M\u00e9xico, M\u00e9xico",
+        "alias": "America/Mexico_City Mexico/General",
+        "iana": "America/Mexico_City"
+    },
+    {
+        "name": "mxmid",
+        "description": "M\u00e9rida, M\u00e9xico",
+        "alias": "America/Merida",
+        "iana": "America/Merida"
+    },
+    {
+        "name": "mxmty",
+        "description": "Monterrey, M\u00e9xico",
+        "alias": "America/Monterrey",
+        "iana": "America/Monterrey"
+    },
+    {
+        "name": "mxmzt",
+        "description": "Mazatl\u00e1n, M\u00e9xico",
+        "alias": "America/Mazatlan Mexico/BajaSur",
+        "iana": "America/Mazatlan"
+    },
+    {
+        "name": "mxoji",
+        "description": "Ojinaga, M\u00e9xico",
+        "alias": "America/Ojinaga",
+        "iana": "America/Ojinaga"
+    },
+    {
+        "name": "mxpvr",
+        "description": "Bah\u00eda de Banderas, M\u00e9xico",
+        "alias": "America/Bahia_Banderas",
+        "iana": "America/Bahia_Banderas"
+    },
+    {
+        "name": "mxtij",
+        "description": "Tijuana, M\u00e9xico",
+        "alias": "America/Tijuana America/Ensenada Mexico/BajaNorte America/Santa_Isabel",
+        "iana": "America/Tijuana"
+    },
+    {
+        "name": "mykch",
+        "description": "Kuching, Malasia",
+        "alias": "Asia/Kuching",
+        "iana": "Asia/Kuching"
+    },
+    {
+        "name": "mykul",
+        "description": "Kuala Lumpur, Malasia",
+        "alias": "Asia/Kuala_Lumpur",
+        "iana": "Asia/Kuala_Lumpur"
+    },
+    {
+        "name": "mzmpm",
+        "description": "Maputo, Mozambique",
+        "alias": "Africa/Maputo",
+        "iana": "Africa/Maputo"
+    },
+    {
+        "name": "nawdh",
+        "description": "Windhoek, Namibia",
+        "alias": "Africa/Windhoek",
+        "iana": "Africa/Windhoek"
+    },
+    {
+        "name": "ncnou",
+        "description": "Numea, Nueva Caledonia",
+        "alias": "Pacific/Noumea",
+        "iana": "Pacific/Noumea"
+    },
+    {
+        "name": "nenim",
+        "description": "Niamey, N\u00edger",
+        "alias": "Africa/Niamey",
+        "iana": "Africa/Niamey"
+    },
+    {
+        "name": "nfnlk",
+        "description": "Isla Norfolk",
+        "alias": "Pacific/Norfolk",
+        "iana": "Pacific/Norfolk"
+    },
+    {
+        "name": "nglos",
+        "description": "Lagos, Nigeria",
+        "alias": "Africa/Lagos",
+        "iana": "Africa/Lagos"
+    },
+    {
+        "name": "nimga",
+        "description": "Managua, Nicaragua",
+        "alias": "America/Managua",
+        "iana": "America/Managua"
+    },
+    {
+        "name": "nlams",
+        "description": "\u00c1msterdam, Pa\u00edses Bajos",
+        "alias": "Europe/Amsterdam",
+        "iana": "Europe/Amsterdam"
+    },
+    {
+        "name": "noosl",
+        "description": "Oslo, Noruega",
+        "alias": "Europe/Oslo",
+        "iana": "Europe/Oslo"
+    },
+    {
+        "name": "npktm",
+        "description": "Katmand\u00fa, Nepal",
+        "alias": "Asia/Katmandu Asia/Kathmandu",
+        "iana": "Asia/Kathmandu"
+    },
+    {
+        "name": "nrinu",
+        "description": "Nauru",
+        "alias": "Pacific/Nauru",
+        "iana": "Pacific/Nauru"
+    },
+    {
+        "name": "nuiue",
+        "description": "Niue",
+        "alias": "Pacific/Niue",
+        "iana": "Pacific/Niue"
+    },
+    {
+        "name": "nzakl",
+        "description": "Auckland, Nueva Zelanda",
+        "alias": "Pacific/Auckland Antarctica/South_Pole NZ",
+        "iana": "Pacific/Auckland"
+    },
+    {
+        "name": "nzcht",
+        "description": "Islas Chatham, Nueva Zelanda",
+        "alias": "Pacific/Chatham NZ-CHAT",
+        "iana": "Pacific/Chatham"
+    },
+    {
+        "name": "ommct",
+        "description": "Mascate, Om\u00e1n",
+        "alias": "Asia/Muscat",
+        "iana": "Asia/Muscat"
+    },
+    {
+        "name": "papty",
+        "description": "Panam\u00e1",
+        "alias": "America/Panama",
+        "iana": "America/Panama"
+    },
+    {
+        "name": "pelim",
+        "description": "Lima, Per\u00fa",
+        "alias": "America/Lima",
+        "iana": "America/Lima"
+    },
+    {
+        "name": "pfgmr",
+        "description": "Islas Gambier, Polinesia Francesa",
+        "alias": "Pacific/Gambier",
+        "iana": "Pacific/Gambier"
+    },
+    {
+        "name": "pfnhv",
+        "description": "Islas Marquesas, Polinesia Francesa",
+        "alias": "Pacific/Marquesas",
+        "iana": "Pacific/Marquesas"
+    },
+    {
+        "name": "pfppt",
+        "description": "Tahit\u00ed, Polinesia Francesa",
+        "alias": "Pacific/Tahiti",
+        "iana": "Pacific/Tahiti"
+    },
+    {
+        "name": "pgpom",
+        "description": "Port Moresby, Pap\u00faa Nueva Guinea",
+        "alias": "Pacific/Port_Moresby",
+        "iana": "Pacific/Port_Moresby"
+    },
+    {
+        "name": "pgraw",
+        "description": "Bougainville, Pap\u00faa Nueva Guinea",
+        "alias": "Pacific/Bougainville",
+        "iana": "Pacific/Bougainville"
+    },
+    {
+        "name": "phmnl",
+        "description": "Manila, Filipinas",
+        "alias": "Asia/Manila",
+        "iana": "Asia/Manila"
+    },
+    {
+        "name": "pkkhi",
+        "description": "Karachi, Pakist\u00e1n",
+        "alias": "Asia/Karachi",
+        "iana": "Asia/Karachi"
+    },
+    {
+        "name": "plwaw",
+        "description": "Varsovia, Polonia",
+        "alias": "Europe/Warsaw Poland",
+        "iana": "Europe/Warsaw"
+    },
+    {
+        "name": "pmmqc",
+        "description": "San Pedro y Miquel\u00f3n",
+        "alias": "America/Miquelon",
+        "iana": "America/Miquelon"
+    },
+    {
+        "name": "pnpcn",
+        "description": "Islas Pitcairn",
+        "alias": "Pacific/Pitcairn",
+        "iana": "Pacific/Pitcairn"
+    },
+    {
+        "name": "prsju",
+        "description": "Puerto Rico",
+        "alias": "America/Puerto_Rico",
+        "iana": "America/Puerto_Rico"
+    },
+    {
+        "name": "pst8pdt",
+        "description": "Zona horaria estilo POSIX para la hora del Pac\u00edfico de EE. UU.",
+        "alias": "PST8PDT",
+        "iana": "PST8PDT"
+    },
+    {
+        "name": "ptfnc",
+        "description": "Madeira, Portugal",
+        "alias": "Atlantic/Madeira",
+        "iana": "Atlantic/Madeira"
+    },
+    {
+        "name": "ptlis",
+        "description": "Lisboa, Portugal",
+        "alias": "Europe/Lisbon Portugal",
+        "iana": "Europe/Lisbon"
+    },
+    {
+        "name": "ptpdl",
+        "description": "Azores, Portugal",
+        "alias": "Atlantic/Azores",
+        "iana": "Atlantic/Azores"
+    },
+    {
+        "name": "pwror",
+        "description": "Palau",
+        "alias": "Pacific/Palau",
+        "iana": "Pacific/Palau"
+    },
+    {
+        "name": "pyasu",
+        "description": "Asunci\u00f3n, Paraguay",
+        "alias": "America/Asuncion",
+        "iana": "America/Asuncion"
+    },
+    {
+        "name": "qadoh",
+        "description": "Qatar",
+        "alias": "Asia/Qatar",
+        "iana": "Asia/Qatar"
+    },
+    {
+        "name": "rereu",
+        "description": "Reuni\u00f3n",
+        "alias": "Indian/Reunion",
+        "iana": "Indian/Reunion"
+    },
+    {
+        "name": "robuh",
+        "description": "Bucarest, Rumania",
+        "alias": "Europe/Bucharest",
+        "iana": "Europe/Bucharest"
+    },
+    {
+        "name": "rsbeg",
+        "description": "Belgrado, Serbia",
+        "alias": "Europe/Belgrade",
+        "iana": "Europe/Belgrade"
+    },
+    {
+        "name": "ruasf",
+        "description": "Astrac\u00e1n, Rusia",
+        "alias": "Europe/Astrakhan",
+        "iana": "Europe/Astrakhan"
+    },
+    {
+        "name": "rubax",
+        "description": "Barnaul, Rusia",
+        "alias": "Asia/Barnaul",
+        "iana": "Asia/Barnaul"
+    },
+    {
+        "name": "ruchita",
+        "description": "Chita Zabaykalsky, Rusia",
+        "alias": "Asia/Chita",
+        "iana": "Asia/Chita"
+    },
+    {
+        "name": "rudyr",
+        "description": "An\u00e1dyr, Rusia",
+        "alias": "Asia/Anadyr",
+        "iana": "Asia/Anadyr"
+    },
+    {
+        "name": "rugdx",
+        "description": "Magad\u00e1n, Rusia",
+        "alias": "Asia/Magadan",
+        "iana": "Asia/Magadan"
+    },
+    {
+        "name": "ruikt",
+        "description": "Irkutsk, Rusia",
+        "alias": "Asia/Irkutsk",
+        "iana": "Asia/Irkutsk"
+    },
+    {
+        "name": "rukgd",
+        "description": "Kaliningrado, Rusia",
+        "alias": "Europe/Kaliningrad",
+        "iana": "Europe/Kaliningrad"
+    },
+    {
+        "name": "rukhndg",
+        "description": "Khandyga Tomponsky, Rusia",
+        "alias": "Asia/Khandyga",
+        "iana": "Asia/Khandyga"
+    },
+    {
+        "name": "rukra",
+        "description": "Krasnoyarsk, Rusia",
+        "alias": "Asia/Krasnoyarsk",
+        "iana": "Asia/Krasnoyarsk"
+    },
+    {
+        "name": "rukuf",
+        "description": "Samara, Rusia",
+        "alias": "Europe/Samara",
+        "iana": "Europe/Samara"
+    },
+    {
+        "name": "rukvx",
+        "description": "K\u00edrov, Rusia",
+        "alias": "Europe/Kirov",
+        "iana": "Europe/Kirov"
+    },
+    {
+        "name": "rumow",
+        "description": "Mosc\u00fa, Rusia",
+        "alias": "Europe/Moscow W-SU",
+        "iana": "Europe/Moscow"
+    },
+    {
+        "name": "runoz",
+        "description": "Novokuznetsk, Rusia",
+        "alias": "Asia/Novokuznetsk",
+        "iana": "Asia/Novokuznetsk"
+    },
+    {
+        "name": "ruoms",
+        "description": "Omsk, Rusia",
+        "alias": "Asia/Omsk",
+        "iana": "Asia/Omsk"
+    },
+    {
+        "name": "ruovb",
+        "description": "Novosibirsk, Rusia",
+        "alias": "Asia/Novosibirsk",
+        "iana": "Asia/Novosibirsk"
+    },
+    {
+        "name": "rupkc",
+        "description": "Pen\u00ednsula de Kamchatka, Rusia",
+        "alias": "Asia/Kamchatka",
+        "iana": "Asia/Kamchatka"
+    },
+    {
+        "name": "rurtw",
+        "description": "Sar\u00e1tov, Rusia",
+        "alias": "Europe/Saratov",
+        "iana": "Europe/Saratov"
+    },
+    {
+        "name": "rusred",
+        "description": "Srednekolymsk, Rusia",
+        "alias": "Asia/Srednekolymsk",
+        "iana": "Asia/Srednekolymsk"
+    },
+    {
+        "name": "rutof",
+        "description": "Tomsk, Rusia",
+        "alias": "Asia/Tomsk",
+        "iana": "Asia/Tomsk"
+    },
+    {
+        "name": "ruuly",
+        "description": "Ul\u00e1n-Ud\u00e9, Rusia",
+        "alias": "Europe/Ulyanovsk",
+        "iana": "Europe/Ulyanovsk"
+    },
+    {
+        "name": "ruunera",
+        "description": "Ust-Nera Oymyakonsky, Rusia",
+        "alias": "Asia/Ust-Nera",
+        "iana": "Asia/Ust-Nera"
+    },
+    {
+        "name": "ruuus",
+        "description": "Sajal\u00edn, Rusia",
+        "alias": "Asia/Sakhalin",
+        "iana": "Asia/Sakhalin"
+    },
+    {
+        "name": "ruvog",
+        "description": "Volgogrado, Rusia",
+        "alias": "Europe/Volgograd",
+        "iana": "Europe/Volgograd"
+    },
+    {
+        "name": "ruvvo",
+        "description": "Vladivostok, Rusia",
+        "alias": "Asia/Vladivostok",
+        "iana": "Asia/Vladivostok"
+    },
+    {
+        "name": "ruyek",
+        "description": "Ekaterimburgo, Rusia",
+        "alias": "Asia/Yekaterinburg",
+        "iana": "Asia/Yekaterinburg"
+    },
+    {
+        "name": "ruyks",
+        "description": "Yakutsk, Rusia",
+        "alias": "Asia/Yakutsk",
+        "iana": "Asia/Yakutsk"
+    },
+    {
+        "name": "rwkgl",
+        "description": "Kigali, Ruanda",
+        "alias": "Africa/Kigali",
+        "iana": "Africa/Kigali"
+    },
+    {
+        "name": "saruh",
+        "description": "Riad, Arabia Saud\u00ed",
+        "alias": "Asia/Riyadh",
+        "iana": "Asia/Riyadh"
+    },
+    {
+        "name": "sbhir",
+        "description": "Guadalcanal, Islas Salom\u00f3n",
+        "alias": "Pacific/Guadalcanal",
+        "iana": "Pacific/Guadalcanal"
+    },
+    {
+        "name": "scmaw",
+        "description": "Mah\u00e9, Seychelles",
+        "alias": "Indian/Mahe",
+        "iana": "Indian/Mahe"
+    },
+    {
+        "name": "sdkrt",
+        "description": "Jartum, Sud\u00e1n",
+        "alias": "Africa/Khartoum",
+        "iana": "Africa/Khartoum"
+    },
+    {
+        "name": "sesto",
+        "description": "Estocolmo, Suecia",
+        "alias": "Europe/Stockholm",
+        "iana": "Europe/Stockholm"
+    },
+    {
+        "name": "sgsin",
+        "description": "Singapur",
+        "alias": "Asia/Singapore Singapore",
+        "iana": "Asia/Singapore"
+    },
+    {
+        "name": "shshn",
+        "description": "Santa Helena",
+        "alias": "Atlantic/St_Helena",
+        "iana": "Atlantic/St_Helena"
+    },
+    {
+        "name": "silju",
+        "description": "Liubliana, Eslovenia",
+        "alias": "Europe/Ljubljana",
+        "iana": "Europe/Ljubljana"
+    },
+    {
+        "name": "sjlyr",
+        "description": "Longyearbyen, Svalbard",
+        "alias": "Arctic/Longyearbyen Atlantic/Jan_Mayen",
+        "iana": "Arctic/Longyearbyen"
+    },
+    {
+        "name": "skbts",
+        "description": "Bratislava, Eslovaquia",
+        "alias": "Europe/Bratislava",
+        "iana": "Europe/Bratislava"
+    },
+    {
+        "name": "slfna",
+        "description": "Freetown, Sierra Leona",
+        "alias": "Africa/Freetown",
+        "iana": "Africa/Freetown"
+    },
+    {
+        "name": "smsai",
+        "description": "San Marino",
+        "alias": "Europe/San_Marino",
+        "iana": "Europe/San_Marino"
+    },
+    {
+        "name": "sndkr",
+        "description": "Dakar, Senegal",
+        "alias": "Africa/Dakar",
+        "iana": "Africa/Dakar"
+    },
+    {
+        "name": "somgq",
+        "description": "Mogadiscio, Somalia",
+        "alias": "Africa/Mogadishu",
+        "iana": "Africa/Mogadishu"
+    },
+    {
+        "name": "srpbm",
+        "description": "Paramaribo, Surinam",
+        "alias": "America/Paramaribo",
+        "iana": "America/Paramaribo"
+    },
+    {
+        "name": "ssjub",
+        "description": "Yuba, Sud\u00e1n del Sur",
+        "alias": "Africa/Juba",
+        "iana": "Africa/Juba"
+    },
+    {
+        "name": "sttms",
+        "description": "Santo Tom\u00e9, Santo Tom\u00e9 y Pr\u00edncipe",
+        "alias": "Africa/Sao_Tome",
+        "iana": "Africa/Sao_Tome"
+    },
+    {
+        "name": "svsal",
+        "description": "El Salvador",
+        "alias": "America/El_Salvador",
+        "iana": "America/El_Salvador"
+    },
+    {
+        "name": "sxphi",
+        "description": "San Mart\u00edn",
+        "alias": "America/Lower_Princes",
+        "iana": "America/Lower_Princes"
+    },
+    {
+        "name": "sydam",
+        "description": "Damasco, Siria",
+        "alias": "Asia/Damascus",
+        "iana": "Asia/Damascus"
+    },
+    {
+        "name": "szqmn",
+        "description": "Mbabane, Suazilandia",
+        "alias": "Africa/Mbabane",
+        "iana": "Africa/Mbabane"
+    },
+    {
+        "name": "tcgdt",
+        "description": "Gran Turca, Islas Turcas y Caicos",
+        "alias": "America/Grand_Turk",
+        "iana": "America/Grand_Turk"
+    },
+    {
+        "name": "tdndj",
+        "description": "Yamena, Chad",
+        "alias": "Africa/Ndjamena",
+        "iana": "Africa/Ndjamena"
+    },
+    {
+        "name": "tfpfr",
+        "description": "Islas Kerguelen, Territorios Australes Franceses",
+        "alias": "Indian/Kerguelen",
+        "iana": "Indian/Kerguelen"
+    },
+    {
+        "name": "tglfw",
+        "description": "Lom\u00e9, Togo",
+        "alias": "Africa/Lome",
+        "iana": "Africa/Lome"
+    },
+    {
+        "name": "thbkk",
+        "description": "Bangkok, Tailandia",
+        "alias": "Asia/Bangkok",
+        "iana": "Asia/Bangkok"
+    },
+    {
+        "name": "tjdyu",
+        "description": "Dusamb\u00e9, Tayikist\u00e1n",
+        "alias": "Asia/Dushanbe",
+        "iana": "Asia/Dushanbe"
+    },
+    {
+        "name": "tkfko",
+        "description": "Fakaofo, Tokelau",
+        "alias": "Pacific/Fakaofo",
+        "iana": "Pacific/Fakaofo"
+    },
+    {
+        "name": "tldil",
+        "description": "Dili, Timor Oriental",
+        "alias": "Asia/Dili",
+        "iana": "Asia/Dili"
+    },
+    {
+        "name": "tmasb",
+        "description": "Asjabad, Turkmenist\u00e1n",
+        "alias": "Asia/Ashgabat Asia/Ashkhabad",
+        "iana": "Asia/Ashgabat"
+    },
+    {
+        "name": "tntun",
+        "description": "T\u00fanez",
+        "alias": "Africa/Tunis",
+        "iana": "Africa/Tunis"
+    },
+    {
+        "name": "totbu",
+        "description": "Tongatapu, Tonga",
+        "alias": "Pacific/Tongatapu",
+        "iana": "Pacific/Tongatapu"
+    },
+    {
+        "name": "trist",
+        "description": "Estambul, Turqu\u00eda",
+        "alias": "Europe/Istanbul Asia/Istanbul Turkey",
+        "iana": "Europe/Istanbul"
+    },
+    {
+        "name": "ttpos",
+        "description": "Puerto Espa\u00f1a, Trinidad y Tobago",
+        "alias": "America/Port_of_Spain",
+        "iana": "America/Port_of_Spain"
+    },
+    {
+        "name": "tvfun",
+        "description": "Funafuti, Tuvalu",
+        "alias": "Pacific/Funafuti",
+        "iana": "Pacific/Funafuti"
+    },
+    {
+        "name": "twtpe",
+        "description": "Taip\u00e9i, Taiw\u00e1n",
+        "alias": "Asia/Taipei ROC",
+        "iana": "Asia/Taipei"
+    },
+    {
+        "name": "tzdar",
+        "description": "Dar es Salaam, Tanzania",
+        "alias": "Africa/Dar_es_Salaam",
+        "iana": "Africa/Dar_es_Salaam"
+    },
+    {
+        "name": "uaiev",
+        "description": "Kiev, Ucrania",
+        "alias": "Europe/Kiev Europe/Kyiv Europe/Zaporozhye Europe/Uzhgorod",
+        "iana": "Europe/Kyiv"
+    },
+    {
+        "name": "uasip",
+        "description": "Simferopol, Ucrania",
+        "alias": "Europe/Simferopol",
+        "iana": "Europe/Simferopol"
+    },
+    {
+        "name": "ugkla",
+        "description": "Kampala, Uganda",
+        "alias": "Africa/Kampala",
+        "iana": "Africa/Kampala"
+    },
+    {
+        "name": "umawk",
+        "description": "Isla Wake, Islas menores alejadas de EE. UU.",
+        "alias": "Pacific/Wake",
+        "iana": "Pacific/Wake"
+    },
+    {
+        "name": "ummdy",
+        "description": "Islas Midway, Islas menores alejadas de EE. UU.",
+        "alias": "Pacific/Midway",
+        "iana": "Pacific/Midway"
+    },
+    {
+        "name": "usadk",
+        "description": "Adak (Alaska), Estados Unidos",
+        "alias": "America/Adak America/Atka US/Aleutian",
+        "iana": "America/Adak"
+    },
+    {
+        "name": "usaeg",
+        "description": "Marengo (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Marengo",
+        "iana": "America/Indiana/Marengo"
+    },
+    {
+        "name": "usanc",
+        "description": "Anchorage, Estados Unidos",
+        "alias": "America/Anchorage US/Alaska",
+        "iana": "America/Anchorage"
+    },
+    {
+        "name": "usboi",
+        "description": "Boise (Idaho), Estados Unidos",
+        "alias": "America/Boise",
+        "iana": "America/Boise"
+    },
+    {
+        "name": "uschi",
+        "description": "Chicago, Estados Unidos",
+        "alias": "America/Chicago US/Central",
+        "iana": "America/Chicago"
+    },
+    {
+        "name": "usden",
+        "description": "Denver, Estados Unidos",
+        "alias": "America/Denver America/Shiprock Navajo US/Mountain",
+        "iana": "America/Denver"
+    },
+    {
+        "name": "usdet",
+        "description": "Detroit, Estados Unidos",
+        "alias": "America/Detroit US/Michigan",
+        "iana": "America/Detroit"
+    },
+    {
+        "name": "ushnl",
+        "description": "Honolulu, Estados Unidos",
+        "alias": "Pacific/Honolulu US/Hawaii Pacific/Johnston",
+        "iana": "Pacific/Honolulu"
+    },
+    {
+        "name": "usind",
+        "description": "Indian\u00e1polis, Estados Unidos",
+        "alias": "America/Indianapolis America/Fort_Wayne America/Indiana/Indianapolis US/East-Indiana",
+        "iana": "America/Indiana/Indianapolis"
+    },
+    {
+        "name": "usinvev",
+        "description": "Vevay (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Vevay",
+        "iana": "America/Indiana/Vevay"
+    },
+    {
+        "name": "usjnu",
+        "description": "Juneau (Alaska), Estados Unidos",
+        "alias": "America/Juneau",
+        "iana": "America/Juneau"
+    },
+    {
+        "name": "usknx",
+        "description": "Knox (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Knox America/Knox_IN US/Indiana-Starke",
+        "iana": "America/Indiana/Knox"
+    },
+    {
+        "name": "uslax",
+        "description": "Los \u00c1ngeles, Estados Unidos",
+        "alias": "America/Los_Angeles US/Pacific US/Pacific-New",
+        "iana": "America/Los_Angeles"
+    },
+    {
+        "name": "uslui",
+        "description": "Louisville (Kentucky), Estados Unidos",
+        "alias": "America/Louisville America/Kentucky/Louisville",
+        "iana": "America/Kentucky/Louisville"
+    },
+    {
+        "name": "usmnm",
+        "description": "Menominee (Michigan), Estados Unidos",
+        "alias": "America/Menominee",
+        "iana": "America/Menominee"
+    },
+    {
+        "name": "usmtm",
+        "description": "Metlakatla (Alaska), Estados Unidos",
+        "alias": "America/Metlakatla",
+        "iana": "America/Metlakatla"
+    },
+    {
+        "name": "usmoc",
+        "description": "Monticello (Kentucky), Estados Unidos",
+        "alias": "America/Kentucky/Monticello",
+        "iana": "America/Kentucky/Monticello"
+    },
+    {
+        "name": "usndcnt",
+        "description": "Center (Dakota del Norte), Estados Unidos",
+        "alias": "America/North_Dakota/Center",
+        "iana": "America/North_Dakota/Center"
+    },
+    {
+        "name": "usndnsl",
+        "description": "New Salem (Dakota del Norte), Estados Unidos",
+        "alias": "America/North_Dakota/New_Salem",
+        "iana": "America/North_Dakota/New_Salem"
+    },
+    {
+        "name": "usnyc",
+        "description": "Nueva York, Estados Unidos",
+        "alias": "America/New_York US/Eastern",
+        "iana": "America/New_York"
+    },
+    {
+        "name": "usoea",
+        "description": "Vincennes (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Vincennes",
+        "iana": "America/Indiana/Vincennes"
+    },
+    {
+        "name": "usome",
+        "description": "Nome (Alaska), Estados Unidos",
+        "alias": "America/Nome",
+        "iana": "America/Nome"
+    },
+    {
+        "name": "usphx",
+        "description": "Phoenix, Estados Unidos",
+        "alias": "America/Phoenix US/Arizona",
+        "iana": "America/Phoenix"
+    },
+    {
+        "name": "ussit",
+        "description": "Sitka (Alaska), Estados Unidos",
+        "alias": "America/Sitka",
+        "iana": "America/Sitka"
+    },
+    {
+        "name": "ustel",
+        "description": "Tell City (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Tell_City",
+        "iana": "America/Indiana/Tell_City"
+    },
+    {
+        "name": "uswlz",
+        "description": "Winamac (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Winamac",
+        "iana": "America/Indiana/Winamac"
+    },
+    {
+        "name": "uswsq",
+        "description": "Petersburg (Indiana), Estados Unidos",
+        "alias": "America/Indiana/Petersburg",
+        "iana": "America/Indiana/Petersburg"
+    },
+    {
+        "name": "usxul",
+        "description": "Beulah (Dakota del Norte), Estados Unidos",
+        "alias": "America/North_Dakota/Beulah",
+        "iana": "America/North_Dakota/Beulah"
+    },
+    {
+        "name": "usyak",
+        "description": "Yakutat (Alaska), Estados Unidos",
+        "alias": "America/Yakutat",
+        "iana": "America/Yakutat"
+    },
+    {
+        "name": "utc",
+        "description": "UTC (Tiempo Universal Coordinado)",
+        "alias": "Etc/UTC Etc/UCT Etc/Universal Etc/Zulu UCT UTC Universal Zulu",
+        "iana": "Etc/UTC"
+    },
+    {
+        "name": "utce01",
+        "description": "1 hora adelante de UTC",
+        "alias": "Etc/GMT-1",
+        "iana": "Etc/GMT-1"
+    },
+    {
+        "name": "utce02",
+        "description": "2 horas adelante de UTC",
+        "alias": "Etc/GMT-2",
+        "iana": "Etc/GMT-2"
+    },
+    {
+        "name": "utce03",
+        "description": "3 horas adelante de UTC",
+        "alias": "Etc/GMT-3",
+        "iana": "Etc/GMT-3"
+    },
+    {
+        "name": "utce04",
+        "description": "4 horas adelante de UTC",
+        "alias": "Etc/GMT-4",
+        "iana": "Etc/GMT-4"
+    },
+    {
+        "name": "utce05",
+        "description": "5 horas adelante de UTC",
+        "alias": "Etc/GMT-5",
+        "iana": "Etc/GMT-5"
+    },
+    {
+        "name": "utce06",
+        "description": "6 horas adelante de UTC",
+        "alias": "Etc/GMT-6",
+        "iana": "Etc/GMT-6"
+    },
+    {
+        "name": "utce07",
+        "description": "7 horas adelante de UTC",
+        "alias": "Etc/GMT-7",
+        "iana": "Etc/GMT-7"
+    },
+    {
+        "name": "utce08",
+        "description": "8 horas adelante de UTC",
+        "alias": "Etc/GMT-8",
+        "iana": "Etc/GMT-8"
+    },
+    {
+        "name": "utce09",
+        "description": "9 horas adelante de UTC",
+        "alias": "Etc/GMT-9",
+        "iana": "Etc/GMT-9"
+    },
+    {
+        "name": "utce10",
+        "description": "10 horas adelante de UTC",
+        "alias": "Etc/GMT-10",
+        "iana": "Etc/GMT-10"
+    },
+    {
+        "name": "utce11",
+        "description": "11 horas adelante de UTC",
+        "alias": "Etc/GMT-11",
+        "iana": "Etc/GMT-11"
+    },
+    {
+        "name": "utce12",
+        "description": "12 horas adelante de UTC",
+        "alias": "Etc/GMT-12",
+        "iana": "Etc/GMT-12"
+    },
+    {
+        "name": "utce13",
+        "description": "13 horas adelante de UTC",
+        "alias": "Etc/GMT-13",
+        "iana": "Etc/GMT-13"
+    },
+    {
+        "name": "utce14",
+        "description": "14 horas adelante de UTC",
+        "alias": "Etc/GMT-14",
+        "iana": "Etc/GMT-14"
+    },
+    {
+        "name": "utcw01",
+        "description": "1 hora atr\u00e1s de UTC",
+        "alias": "Etc/GMT+1",
+        "iana": "Etc/GMT+1"
+    },
+    {
+        "name": "utcw02",
+        "description": "2 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+2",
+        "iana": "Etc/GMT+2"
+    },
+    {
+        "name": "utcw03",
+        "description": "3 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+3",
+        "iana": "Etc/GMT+3"
+    },
+    {
+        "name": "utcw04",
+        "description": "4 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+4",
+        "iana": "Etc/GMT+4"
+    },
+    {
+        "name": "utcw05",
+        "description": "5 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+5 EST",
+        "iana": "Etc/GMT+5"
+    },
+    {
+        "name": "utcw06",
+        "description": "6 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+6",
+        "iana": "Etc/GMT+6"
+    },
+    {
+        "name": "utcw07",
+        "description": "7 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+7 MST",
+        "iana": "Etc/GMT+7"
+    },
+    {
+        "name": "utcw08",
+        "description": "8 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+8",
+        "iana": "Etc/GMT+8"
+    },
+    {
+        "name": "utcw09",
+        "description": "9 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+9",
+        "iana": "Etc/GMT+9"
+    },
+    {
+        "name": "utcw10",
+        "description": "10 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+10 HST",
+        "iana": "Etc/GMT+10"
+    },
+    {
+        "name": "utcw11",
+        "description": "11 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+11",
+        "iana": "Etc/GMT+11"
+    },
+    {
+        "name": "utcw12",
+        "description": "12 horas atr\u00e1s de UTC",
+        "alias": "Etc/GMT+12",
+        "iana": "Etc/GMT+12"
+    },
+    {
+        "name": "uymvd",
+        "description": "Montevideo, Uruguay",
+        "alias": "America/Montevideo",
+        "iana": "America/Montevideo"
+    },
+    {
+        "name": "uzskd",
+        "description": "Samarkand, Uzbekist\u00e1n",
+        "alias": "Asia/Samarkand",
+        "iana": "Asia/Samarkand"
+    },
+    {
+        "name": "uztas",
+        "description": "Taskent, Uzbekist\u00e1n",
+        "alias": "Asia/Tashkent",
+        "iana": "Asia/Tashkent"
+    },
+    {
+        "name": "vavat",
+        "description": "Ciudad del Vaticano",
+        "alias": "Europe/Vatican",
+        "iana": "Europe/Vatican"
+    },
+    {
+        "name": "vcsvd",
+        "description": "San Vicente, San Vicente y las Granadinas",
+        "alias": "America/St_Vincent",
+        "iana": "America/St_Vincent"
+    },
+    {
+        "name": "veccs",
+        "description": "Caracas, Venezuela",
+        "alias": "America/Caracas",
+        "iana": "America/Caracas"
+    },
+    {
+        "name": "vgtov",
+        "description": "Tortola, Islas V\u00edrgenes Brit\u00e1nicas",
+        "alias": "America/Tortola",
+        "iana": "America/Tortola"
+    },
+    {
+        "name": "vistt",
+        "description": "Saint Thomas, Islas V\u00edrgenes de los Estados Unidos",
+        "alias": "America/St_Thomas America/Virgin",
+        "iana": "America/St_Thomas"
+    },
+    {
+        "name": "vnsgn",
+        "description": "Ciudad Ho Chi Minh, Vietnam",
+        "alias": "Asia/Saigon Asia/Ho_Chi_Minh",
+        "iana": "Asia/Ho_Chi_Minh"
+    },
+    {
+        "name": "vuvli",
+        "description": "Efate, Vanuatu",
+        "alias": "Pacific/Efate",
+        "iana": "Pacific/Efate"
+    },
+    {
+        "name": "wfmau",
+        "description": "Islas Wallis, Wallis y Futuna",
+        "alias": "Pacific/Wallis",
+        "iana": "Pacific/Wallis"
+    },
+    {
+        "name": "wsapw",
+        "description": "Apia, Samoa",
+        "alias": "Pacific/Apia",
+        "iana": "Pacific/Apia"
+    },
+    {
+        "name": "yeade",
+        "description": "Ad\u00e9n, Yemen",
+        "alias": "Asia/Aden",
+        "iana": "Asia/Aden"
+    },
+    {
+        "name": "ytmam",
+        "description": "Mayotte",
+        "alias": "Indian/Mayotte",
+        "iana": "Indian/Mayotte"
+    },
+    {
+        "name": "zajnb",
+        "description": "Johannesburgo, Sud\u00e1frica",
+        "alias": "Africa/Johannesburg",
+        "iana": "Africa/Johannesburg"
+    },
+    {
+        "name": "zmlun",
+        "description": "Lusaka, Zambia",
+        "alias": "Africa/Lusaka",
+        "iana": "Africa/Lusaka"
+    },
+    {
+        "name": "zwhre",
+        "description": "Harare, Zimbabue",
+        "alias": "Africa/Harare",
+        "iana": "Africa/Harare"
+    }
+]
